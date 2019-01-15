@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Oxford Union",
+    "description": "The Oxford Union app",
+    "sdkVersion": "32.0.0",
+    "version": "1.1.4",
+    "slug": "oxford-union",
+    "facebookDisplayName": "Oxford Union",
+    "facebookAppId": "224654561611021",
+    "facebookScheme": "fb224654561611021",
+    "scheme": "ou",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "orientation": "portrait",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "org.oxford-union.oxford-union"
+    },
+    "android": {
+      "package": "org.oxfordunion.oxfordunion"
+    }
+  }
+}
